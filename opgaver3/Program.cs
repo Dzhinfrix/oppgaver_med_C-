@@ -1,5 +1,12 @@
 ﻿// найти максимальное число
-int a = 1;
-int b = 2;
-int c = 3;
-int max = 0;
+int a = 2;
+int b = 1;
+string max;
+
+if (a < b) {
+    max = "b";
+}
+else {
+    max = "a";
+}
+Console.Write(max);
