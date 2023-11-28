@@ -1,4 +1,4 @@
-﻿int numberA = 4;
+﻿int numberA = 100;
 int start = numberA * -1;
 int count = start;
 
